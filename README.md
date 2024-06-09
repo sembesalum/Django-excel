@@ -1,2 +1,2 @@
 # Django-excel
-Import and export files using Django
+Import and export files into excel using Django framework
